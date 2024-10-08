@@ -1,0 +1,5 @@
+com\Batches\KafkaBatchConsumer.class
+com\Batches\KafkaBatchProducer.class
+com\Batches\KafkaBatchConfig.class
+com\Batches\KafkaProducerBatchConfig.class
+com\Batches\Main.class
